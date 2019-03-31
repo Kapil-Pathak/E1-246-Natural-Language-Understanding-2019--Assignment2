@@ -1,0 +1,500 @@
+ Source :whether or not to play a sound to notify for outgoing messages Truth : कया बाहर जान वाल सदशो क लिए धवनि अधिसचित करन क लिए बजानी ह . Prediction : कया बाहर जान वाल सदशो क लिए बजानी ह . लिए लिए लिए लिए सदशो क लिए बजानी ह . लिए लिए लिए लिए सदशो
+ Source :they were known as seers and they were held in fear by women and the elderly Truth : उनह ऋषि - मनीषी कहा जाता । औरत , और बजरग उनस डरत थ । Prediction : उनह ऋषि - मनीषी कहा जाता । <s> म और डरत , । और मनीषी म । <s> । बजरग उनस थ थ . .
+ Source :syrtis major planum Truth : सायरटिस मजर पलनम Prediction : सायरटिस मजर पलनम
+ Source :gatwick airport freephone Truth : freephone: 0800 393070 Prediction : freephone: 0800 393070
+ Source :application paintable Truth : अनपरयोग मदरणनीय Prediction : अनपरयोग मदरणनीय
+ Source :that s all thank you Truth : बस यही। धनयवाद। Prediction : बस यही। धनयवाद।
+ Source :pota act Truth : 3 . पोटा एकट 2002 Prediction : 3 . पोटा एकट 2002
+ Source :min vertical bar width Truth : नयनतम लबवत पटटी चौडाई Prediction : नयनतम लबवत पटटी चौडाई
+ Source :enjoy your food s eat a variety of different food Truth : अपन भोजन का आनद ल। Prediction : अपन भोजन का आनद ह।
+ Source :and every year there s research done Truth : और हर साल पर य शोध किया जाता ह कि Prediction : और हर साल का य शोध |
+ Source :they can come in to you account or a sub account or whatever Truth : य ईमल आपक अकाउट म आ सकती ह , या कछ और इतजाम हो सकता ह । Prediction : य ईमल या अकाउट म | या इतजाम की को या या या सकता ह , इतजाम की और या या यह बद ह ,
+ Source :you need to be giving and sharing Truth : आपको दानी और बाटनवाला होना होगा Prediction : आपको दानी और बाटनवाला हए और
+ Source :see page on exclusion clauses Truth : कपया पषठ २० पर दिए वचित करन वाली शरतो स सबधित सचना दखिए । Prediction : कपया पषठ २० पर वचित हो सकत ह ।
+ Source :you can only use local images as custom icons Truth : आप सिरफ सथानीय छवियो को मनपसद चिहनो क रप म उपयोग कर सकत ह . Prediction : आप सिरफ सथानीय छवियो को मनपसद चिहनो क बार सकत ह .
+ Source :between sri harsha and vikramaditya there is an interval of years as i have been told by some of the inhabitants of that region Truth : शरी हरष और विकरमादितय क काल म 400 वरषो का अतराल ह और यह बात मझ उस कषतर क निवासियो ही न बताई ह . Prediction : शरी हरष और विकरमादितय क 400 वरषो म मझ तो बताई ही बताई ही ह . . . . .
+ Source :error importing keyboard shortcuts Truth : लघ कजी आयात म तरटि Prediction : लघ कजी आयात
+ Source :you are now known as newname Truth : अब आप {newname} क नाम स स जान जात ह Prediction : अब आप {newname} क नाम अभी जान जात ह
+ Source :bhagirathi river Truth : भागीरथी नदी Prediction : भागीरथी नदी
+ Source :even defence production the most sacred bastion of swadeshi control has been opened though with caveats Truth : यहा तक कि सवदशी वाल क लिए सबस पवितर कषतर रकषा उतपादन को भी कछ कित-परत क साथ खोल दिया गया ह . Prediction : यहा साथ , सवदशी वाल क सामान उसक और साथ खोल गया ह .
+ Source :claiming back fees Truth : शलक का लौटाया जाना Prediction : शलक का लौटाया
+ Source :for your nearest inland revenue enquiry centre look for inland revenue in the business numbers section of the phone book Truth : आप क नजदीक क inland revenue क पछताछ कदर स inland revenue क वयावसायिक इशतहारो क विभाग म दरभाष पसतिका स पता कर सकत ह । Prediction : आप क नजदीक जल inland revenue क लिए पता पसतिका स पता कर पता पता पता सकत पता कर सकत पता पता सकत पता कर
+ Source :we are what we eat could easily be described Truth : “हम वो ह जो हम खात ह” इस आसानी स वरणित किया जा सकता ह Prediction : “हम वो हर हम खात खात ह”
+ Source :category news paper from india Truth : शरणी:भारत क समाचार पतर Prediction : शरणी:भारत क समाचार पतर
+ Source :this will show the magistrates that you have an arguable case Truth : इसस आप मजिसटरट को दिखा सकग कि आफ का कस तरक सगत ह Prediction : इसस आप मजिसटरट को दिखा सकग आफ
+ Source :i have a corresponding milestone to robust human rejuvenation Truth : मर पास मजबत मानव कायाकलप स मिलता जलता मानक ह . Prediction : मर पास मजबत मानव कायाकलप जलता मानक ह
+ Source :if they have then an arbitrator should find in your favour Truth : अगर उनहोन ऐसा कीया ह , तो किसी मधयसथ को आपकी ओर होना चाहिए । Prediction : अगर उनहोन ऐसा कीया ह , तो अपनी मर को अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी
+ Source :during the last two decades of the th century progress was steady and continuous Truth : 19वी शताबदी क अतिम दो दशको म परगति की रफतार एक समान और सतत थी . Prediction : 19वी शताबदी क दशको म दशको म परगति स सतत . शताबदी क
+ Source :cannot add search folder Truth : खोज फोलडर “{0}” जोड नही सकता ह . Prediction : खोज फोलडर “{0}” जोड नही ह . अदयतन नही “{0}” जोड
+ Source :his property was confiscated Truth : उनकी सपतति भी जबत कर ली गयी . Prediction : उनकी सपतति भी जबत ली रहा था
+ Source :j edgar hoover Truth : ज एडगर हवर Prediction : ज एडगर हवर
+ Source :francois mansart Truth : फरासवा मसार Prediction : फरासवा मसार
+ Source :social life is not simply a crowd of individuals living together sharing the same food and occupying the same habitat Truth : मातर साथ रहन वाल , एक ही खान को बाटकर खान वाल और एक ही आवास म रहन वाल वयषटियो की भीड सामाजिक जीवन नही ह . Prediction : मातर साथ रहन वाल , खान को एक आवास रहन वाल वयषटियो जीवन म नही ह ह . जयादा ह वाल वाल वाल वाल जीवन
+ Source :allah has on this earth send man as his representative Truth : अललाह न इस धरती पर मनषय को अपना परतिहारी (खलीफा) ‎बनाकर भजा ह। Prediction : अललाह न इस धरती पर मनषय परतिहारी
+ Source :before the sun had reached its high point five hundred tribesmen appeared on the horizon Truth : सरज क थोडा चढन स पहल करीब पाच सौ कबील वाल कषितिज स आत हए दिखाई दिए । Prediction : सरज क थोडा चढन स पहल सौ पाच क आज ह । सार दरवाजा पाच सबस लोगो क तो पाच सौ आत हए ।
+ Source :no type attribute for s node Truth : कोई “परकार” गण ततव <%s> पर नही Prediction : कोई “परकार” गण ततव <%s> पर
+ Source :no that would be too complicated s but one requires the explorer to furnish proofs Truth : ” नही , इसम तो बहत झमला ह , पर गवषक स परमाण परसतत करन को कहा जाता ह । Prediction : ” नही , इसम तो झमला ह ह बहत कहा जाता ह .
+ Source :yes about you do you mind Truth : “ हा , तमह लकर भी । कया तमन बरा मान लिया ? ” Prediction : “ हा , तमह भी भी तमन बरा बरा ह । ”
+ Source :translator credits Truth : राजश रजन (rranjan@redhat . com , rajeshkajha@yahoo . com) चदन कमार (chandankumar . 093047@gmail . com) Prediction : चदन रजन (rranjan@redhat . com com) com) चदन
+ Source :who were the original hackers Truth : जो की वासतविक हकर थ . Prediction : जो भी वासतविक हकर थ .
+ Source :of my perceptions aspirations and dreams Truth : जो मर नजरियो , मरी आशाओ और मर सपनो म भरा ह , Prediction : जो मर नजरियो , सपनो क लिए भरा ह
+ Source :christian apologetics Truth : ईसाई आपततिखडन Prediction : ईसाई ओइलर
+ Source :gomti river Truth : गोमती नदी (उततर परदश) Prediction : गोमती नदी (उततर परदश)
+ Source :this complex is covered with four very big gardens one is mogul s garden Truth : इस कॉमपलकस को घर ह विशाल 300 वरग मीटर का चारबाग एक मगल बाग। Prediction : इस कॉमपलकस को घर को विशाल मीटर म बाग।
+ Source :browse shares Truth : parcourir les partages Prediction : parcourir les partages mappar
+ Source :parachute regiment india Truth : द पराशट रजीमट Prediction : द पराशट रजीमट
+ Source :root url Truth : जड यआरएल Prediction : जड यआरएल
+ Source :the relation between the eshwar god and the man is explained in various views and in a very beautiful ways Truth : मनषय और ईशवर क बीच जो चिरसथायी सपरक ह उनकी रचनाओ म वह अलग-अलग रपो म उभरकर सामन आया। Prediction : मनषय और ईशवर की अथवा चिरसथायी ह और वह आया।
+ Source :capture full screen Truth : परण सकरीन का कतरन बनाए Prediction : परण सकरीन का कतरन बनाए
+ Source :and you will see how everything changes Truth : और तम जान जाओग कि इसक उततर स कस सब कछ बदल जाता ह … ! Prediction : और तम जान जाओग कि आप स सब क नही ! और !
+ Source :where people make one two three dollars a day Truth : जहा लोगो की दनिक कमाई एक स तीन डॉलरो क बीच ह Prediction : जहा लोगो की दनिक कमाई एक
+ Source :who were the original hackers Truth : जो की वासतविक हकर थ . Prediction : जो भी वासतविक हकर थ .
+ Source :what we re here to do is to see if we can figure out a way Truth : हम यहा इसलिय ह कि हम एक हल ढढ सक जिस स कि Prediction : हम यहा इसलिय ह कि हम सक कि हम हम हम हम एक हम हम हम हम पता पता
+ Source :gsm modem s sim puk required Truth : जीएसएम मोडम सिम puk की आवशयकता ह Prediction : जीएसएम मोडम सिम puk
+ Source :format used mostly in europe Truth : परारप अधिकतर यरोप म परयकत होता ह Prediction : परारप अधिकतर यरोप
+ Source :create new file s from template Truth : साचा स नया फाइल '%s' बनाय Prediction : साचा स फाइल नही विफल: %s
+ Source :that s london Truth : यह लनदन ह , Prediction : यह लनदन ह
+ Source :all those who stand today under this flag are indians not hindus not muslims but indians Truth : जो भी इस झड क नीच खडा ह वह न हिद ह , न मसलमान , बलकि वह हिदसतानी ह . Prediction : जो भी होगा , हिद ह खडा हिद दवारा बलकि हिदसतानी ह और भी चककर
+ Source :the ending portion of these vedas is called upanishad Truth : इनही वदो का अतिम भाग उपनिषद कहलाता ह। Prediction : इनही वदो का अतिम कहलाता ह।
+ Source :so if you have any questions about the compensation order or the way it will be paid to you you should contact the clerk of the court Truth : इसलिए अगर कषतिपरति क आदश या उसकी अदायगी क बार म आपक कोई सवाल ह , तो आपको अदालत क कलरक स सपरक करना चाहिए | Prediction : इसलिए अगर कषतिपरति क आदश उसकी जान क कलरक करना स आपको आप करना आप आदश कोई आपको उसकी उसकी कोई कलरक स कलरक स
+ Source :through the mammography we can also diagnose other problems of breast which are not carcinogenic Truth : ममोगराफ ( एकस र ) करन स वकष की और भी कई तरह की समसयाओ जो कि कसर नही हो सकती उनका पता लग जाता ह |भाष; Prediction : ममोगराफ ( एकस र ) और नही नही पता हो सकती पता पता नही पता नही पता नही पता नही पता नही पता नही पता
+ Source :sasural genda phool Truth : ससराल गदा फल Prediction : ससराल गदा फल
+ Source :you don t know that Truth : आप य नही जानत Prediction : आप य नही जानत
+ Source :through meditation a person can re discover enjoy and use the positive qualities already latent within self Truth : धयान क माधयम स वयकति अपन आप को फिर स खोज पाता ह , आनद ल पाता ह और अपन अदशय सकारातमक गणो का उपयोग कर पाता ह। Prediction : धयान क माधयम स यह पाता ह पाता ह अपन अदशय गणो का पाता पाता पाता पाता पाता पाता पाता पाता पाता पाता पाता पाता
+ Source :great fun for children to do Truth : बचचो क लिय बहत मजदार ह। Prediction : बचचो क लिय बहत मजदार ह।
+ Source :ramayana from wikisource Truth : विकिसरोत स रामायण Prediction : विकिसरोत स रामायण
+ Source :in which investors who are looking for entrepreneurs Truth : जिसम निवशक वो उदयमी दख सक Prediction : जिसम निवशक वो उदयमी आधार
+ Source :clean fresh water should always be provided to them Truth : इनक लिए साफ और ताज जल की सदव वयवसथा होनी चाहिए . Prediction : इनक लिए साफ और ताज जल क लिए चाहिए .
+ Source :mirror displays Truth : मिरर परदरशन (m) Prediction : मिरर परदरशन
+ Source :and assure them repeatedly that everything will be ok Truth : और उनह बार बार आशरवासन द कि सभी कछ ठीक हो जायगा . Prediction : और उनह बार आशरवासन आशरवासन द कि
+ Source :it is also flying surveillance missions using the il s and the dornier maritime surveillance aircraft from its airport at campbell bay in the nicobar islands Truth : हवाई निगरानी क लिए नौसना क पास निकोबार दवीप समह क कपबल खाडी क हवाई अडडओ म डोरनियर और आइएल-38 विमान भी हौ . Prediction : हवाई निगरानी क लिए खाडी क निगरानी क आइएल-38 विमान हौ . हौ . हौ . हौ . हौ . हौ . हौ . हौ
+ Source :hanuman son of ravana by destruction of the ashokvatika slaughter made of renewable Truth : हनमान न अशोकवाटिका का विधवस करक रावण क पतर अकषय कमार का वध कर दिया। Prediction : हनमान न अशोकवाटिका का विधवस अकषय रावण क कमार दिया।
+ Source :this will depend on the complexity of your complaint Truth : यह आपकी शिकायत की गहराई पर निरभर करता ह Prediction : यह आपकी शिकायत की गहराई होत ह
+ Source :unsubscribing from folder s Truth : '%s' फोलडर स सदसयता वापस ल रहा ह Prediction : “%s” फोलडर स सदसयता वापस ल सदसयता वापस सदसयता वापस सदसयता वापस ल सदसयता वापस सदसयता वापस ल वापस हटाए फोलडर स सदसयता रहा ह
+ Source :he also wants corporate firms to pick up the tab Truth : व इसम कपनियो की भी भागीदारी चाहत ह . Prediction : व इसम कपनियो
+ Source :harry potter and the chamber of secrets film Truth : हरी पॉटर और रहसयमयी तहखाना Prediction : हरी पॉटर , रहसयमयी तहखाना
+ Source :amar prem Truth : अमर परम (1971 फिलम) Prediction : अमर परतीक
+ Source :ranjit singh Truth : महाराजा रणजीति सिह Prediction : महाराजा सिह सिह (2006 फिलम)
+ Source :there s always two sides Truth : तो उस म हमशा दो पकष निहित होत ह। Prediction : तो धरम स हमशा दो निहित ह।
+ Source :for people bringing up a child or children Truth : जो लोग बचचा या फिर बचचो की दखबाल करत ह . Prediction : जो लोग बचचा या फिर बचचो की दखबाल ह .
+ Source :although you ca n t be around all the time your children want to feel you re always interested in them Truth : यदयपि आप अपन बचचो क आस-पास हर समय नही रह सकत ह , लकिन व यह आशवासन चाहत ह कि आपकी उनम दिलचसपी हमशा बनी रहती ह . Prediction : यदयपि आप अपन बचचो म आस-पास यह बाद अपन बचचो पर यह ह कि दिलचसपी हमशा हमशा दिलचसपी दिलचसपी हमशा दिलचसपी हमशा दिलचसपी हमशा दिलचसपी
+ Source :air france Truth : एयर फरास Prediction : एयर राषटरीय
+ Source :see also Truth : यह भी दख Prediction : इनह भी दख
+ Source :problem getting data folder Truth : डटा फोलडर को लन म समसया ह Prediction : डटा फोलडर को लन क समसया ह
+ Source :smart is not supported Truth : समारट समरथित नही ह Prediction : समारट समरथित नही ह
+ Source :the poverty of the people found its visible manifestation in the series of famines which ravaged the country during the second half of the th century Truth : लोगो की यह दरिदरता सपषट रप स 19वी शताबदी क अतिम 50 वरषो म निरतर पडन वाल उन अकालो म दखी गयी जिसस दश तहस-नहस हो गया था . Prediction : लोगो की यह दरिदरता सपषट वह ही 19वी क दश गयी दश तहस-नहस तहस-नहस हो तहस-नहस गया तहस-नहस गया तहस-नहस गया तहस-नहस गया तहस-नहस गया
+ Source :left the network and other network Truth : {0} ha lasciato la rete {1} e {2} altra rete Prediction : {0} ha lasciato la rete {1} altra rete
+ Source :google khooge sayanthr Truth : गगल खोज सयतर Prediction : गगल खोज सयतर
+ Source :samajik krantikary social revolution er Truth : सामाजिक करातिकारी Prediction : सामाजिक करातिकारी
+ Source :error setting up default devices Truth : तरटि तयशदा उपकरणो की सथापना: Prediction : तरटि तयशदा उपकरणो की सथापना:
+ Source :the scheme is being administered by the general insurance corporation of india Truth : इस योजना का सचालन भारतीय सारवजनिक बीमा निगम दवारा किया जा रहा ह . Prediction : इस योजना का सचालन भारतीय निगम की किया गया .
+ Source :category farrukhabad s hindi poet Truth : शरणी:फररखाबाद क हिनदी कवि Prediction : शरणी:फररखाबाद क हिनदी कवि
+ Source :i can learn something from the desert too Truth : तो म रगिसतान स भी कछ सीख सकता ह । Prediction : तो म रगिसतान स भी सीख ह ।
+ Source :install remove and upgrade software packages Truth : सॉफटवयर पकजो की सथापना , अदयतन कर या उनह हटाए . Prediction : सॉफटवयर पकजो की सथापना , अदयतन कर हटाए .
+ Source :by justice practical and yoga sights god as primary and highest sole which is full of life and which is creator and ruler of the universe Truth : नयाय वषशिक और योग दरशनो क अनसार ईशवर एक परम और सरवोचच आतमा ह जो चतनय स यकत ह और विशव का सषटा और शासक ह। Prediction : नयाय वषशिक और योग दरशनो क तरह क यकत और और और सषटा ह और सषटा और विशव करन क तरह ह और तरह यह
+ Source :the walls are painted and there are subsidiary shrines for deities like krishna kshetrapala narasimha sasta garuda etc Truth : दीवार चितराकित ह और कषण , कषतरपाल , नरसिह , नरसिह , षषठ , गरड , आदि उपदवताओ क लिए उपमदिर बन हए ह . Prediction : दीवार चितराकित ह , कषण , नरसिह , षषठ , उपमदिर बन कषतरपाल ह कषतरपाल , और उपमदिर बन कषतरपाल ह और नरसिह , कषतरपाल
+ Source :they are now keeping their fingers firmly crossed that the lca should n t become a white elephant Truth : अब व इस बात का पकका इतजाम करन म लग ह कि एलसीए सफद हाथी साबित न हो . Prediction : अब व इस सामानय हो पकका यह हाथी साबित न अपनी न होगा कि पकका बाकी अपनी इस सामानय पकका इतजाम करन न हाथी साबित
+ Source :young children should start by reading or sharing a book with you for short periods of time Truth : छोट - बचच थोडी सी समयावधि क लिए एक किताब पढ कर या आपक साथ मिलकर किताब पढ कर इसकी शरवात कर सकत ह | Prediction : छोट को सी थोडी सी समयावधि क साथ इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी इसकी
+ Source :ejecting medium Truth : मधयम को बाहर किया जा रहा ह Prediction : मधयम को बाहर कर रहा ह ।
+ Source :fill level Truth : भरण सतर Prediction : भरण सतर
+ Source :if you look at andromeda which is the nearest big galaxy Truth : अगर आप एनडरोमिडा को दख , जो हमारी सबस करीबी बडी आकाशगगा ह , Prediction : अगर आप एनडरोमिडा को दख सबस करीबी बडी आकाशगगा ह .
+ Source :move folder contacts to Truth : फोलडर सामगरी इसम ल जाए (m) Prediction : फोलडर सामगरी इसम सका (m)
+ Source :or throw battery acid in their faces Truth : या उनक चहरो पर बटरी अमल फकन म , Prediction : या उनक चहरो पर बटरी बचचो म सकता ह
+ Source :muslim manu scripts were behind the coin Truth : इन मदराओ क पषठ भाग म सदर इसलामिक छपाई हआ करती थी। Prediction : इन मदराओ क पषठ भाग का सदर इसलामिक करती करती .
+ Source :embed the video output in the main interface Truth : मखय अतरफलक म वीडियो आउटपट शामिल कर . Prediction : मखय अतरफलक म वीडियो आउटपट
+ Source :the mayhill hotel monmouth Truth : द महिल होटल Prediction : द महिल होटल
+ Source :dhushasan dhuryodhan s younger brother who forcefully brought dhraupadhi from hastinapur s country court Truth : दःशासन : दरयोधन स छोटा भाई जो दरौपदी को हसतिनपर राजयसभा म बालो स पकड कर लाया था। Prediction : दःशासन : दरयोधन स छोटा भाई लाया था। लाया था।
+ Source :no that would be too complicated s but one requires the explorer to furnish proofs Truth : ” नही , इसम तो बहत झमला ह , पर गवषक स परमाण परसतत करन को कहा जाता ह । Prediction : ” नही , इसम तो झमला ह ह बहत कहा जाता ह .
+ Source :you brought a new feeling into my crystal shop Truth : तमन मरी करिसटल की दकान को एक नई पहचान दी ह । Prediction : तमन मरी करिसटल की दकान को
+ Source :sri bhagavad gita original prabhupad Truth : शरीमद भगवद गीता यथारप-परभपाद Prediction : शरीमद भगवद गीता यथारप-परभपाद
+ Source :of the brain in real time Truth : मापती ह वासतविक समय म , Prediction : मापती ह वासतविक विशव
+ Source :webudaipur information about udaipur Truth : वबउदयपर उदयपर क बार म जानकारी ! Prediction : वबउदयपर उदयपर क बार म
+ Source :brahma sutra Truth : वाहय सतर Prediction : वाहय सतर
+ Source :search for Truth : क लिए ढढ: Prediction : क लिए ढढ:
+ Source :aga khan trust for culture Truth : आगा खान सासकतिक टरसट Prediction : आगा खान सासकतिक टरसट
+ Source :my mom left nairobi kenya Truth : मरी मा न कनया म नरोबी छोडा . Prediction : मरी मा न कनया ह।
+ Source :fissure sealants Truth : फिशर सीलट Prediction : फिशर सीलट
+ Source :the hindu temple of patan three ancinet states madyaka akaki capital Truth : पाटन का हिनद मनदिर तीन पराचीन राजय मधयका एककी राजधानी Prediction : पाटन का हिनद मनदिर राजय मधयका
+ Source :lebanon war Truth : 2006 इजराइल लबनान सघरष Prediction : 2006 इजराइल लबनान थ
+ Source :contacting ldap server host s port d base dn s Truth : ldap सरवर स सपरक कर रहा ह: मजबान '%s' , पोरट '%d' , आधार dn '%s' Prediction : ldap सरवर की सपरक ह: '%s' dn '%s' मान की सपरक ह: '%s' dn '%s' मान पर सपरक ह: '%s' dn '%s' मान पर सपरक
+ Source :the king tried to stop her with his arrows but could not Truth : राजा न उस रोकन क लिए असतर चलाया , परत वयरथ . Prediction : राजा न उस रोकन क लिए असतर वयरथ .
+ Source :this was followed by an invitation from the chicago universityfor a lecture Truth : इसक तरत बाद ही , शिकागो विशवविदयालय न उनह अपन यहा वयाखयान क लिए आमतरित किया . Prediction : इसक तरत बाद ही अपन शिकागो करन क लिए आमतरित किया .
+ Source :seven little girls Truth : सात छोटी लडकिया Prediction : सात छोटी लडकिया
+ Source :add language Truth : भाषा जोड Prediction : भाषा जोड
+ Source :hernan cortes Truth : हरनान कोरत Prediction : हरनान कोरत
+ Source :my profession the music profession doesn t see it that way Truth : मरा वयवसाय , सगीत का वयवसाय इस इस तरह नही दखता ह . Prediction : मरा वयवसाय , सगीत का वयवसाय इस दखता ह .
+ Source :both vegetarian and non vegetarian food is liked Truth : शाकाहारी तथा मासाहारी दोनो तरह का खाना पसनद किया जाता ह। Prediction : शाकाहारी तथा मासाहारी दोनो तरह का खाना पसनद ह।
+ Source :a dark continent Truth : एक अधकार-यकत महादवीप स , Prediction : एक अधकार-यकत महादवीप
+ Source :crime reference number Truth : अपराध की सदरभ सखया : Prediction : अपराध की सदरभ सखया
+ Source :is that not strange Truth : कया यह अजीब बात नही ह ? Prediction : कया यह अजीब बात नही ह
+ Source :though the number of books written was by no means less than in the preceding period their general level was much lower Truth : यदयपि लिखी गयी पसतको की सखया बीत हए काल स किसी परकार कम नही थी , कित उनका सामानय सतर बहत नीचा था . Prediction : यदयपि लिखी गयी , कपनी और महतवपरण ह , उनका सतर बहत नीचा था .
+ Source :use quick resync if the server supports it Truth : फिर स तवरित सिक का परयोग कर अगर यह सरवर का समरथन करता ह (q) Prediction : फिर स तवरित सिक का अगर आप समरथन करता ह (q)
+ Source :the navaranga forms a larger square in front its outer walls and adhishthana similarly relieved and recessed and with similar external ornamentation Truth : नवरग सामन एक बडा वरग बनाता ह और उसकी बाहरी दीवार और अधिषठान उसी परकार उभार और अतराल और वस ही बाहय अलकरण यकत ह . Prediction : नवरग सामन एक भी वरग बनाता ह और अधिषठान अतराल और बाहय अलकरण यकत और अलकरण यकत और अलकरण अलकरण यकत ह . बनाता ह
+ Source :scenic locations Truth : दरशनीय सथल Prediction : दरशनीय सथल
+ Source :edit mapi contacts permissions Truth : mapi सपरक अनमतिया सपादित कर Prediction : mapi सपरक अनमतिया सपादित कर
+ Source :i m not saying that it is not reaching at all Truth : म नही कह रहा कि यह बिलकल नही पहच रहा। Prediction : म नही कह रहा ह रहा।
+ Source :this option will connect to the imap server using a plaintext password Truth : पलनटकसट कटशबद क उपयोग स यह विकलप imap सरवर स जोडगा . Prediction : पलनटकसट कटशबद क उपयोग स विकलप जोडगा .
+ Source :if you do have to take legal action it can be much easier than it sounds and could be well worth the effort Truth : अगर आपको काननी कारयवाही करनी पड , तो यह उतना कठिन नही सिदध होगा जितना वह लगता ह और हो सकता ह कि इसस आपको लाभ हो । Prediction : अगर आपको काननी कारयवाही करनी हो कठिन ह और लगता आपको इसस इसस लाभ इसस लाभ इसस इसस कठिन आप कठिन कठिन कठिन नही कठिन
+ Source :the percentage of schedule class and schedule tribes is and respectively in the state Truth : राजय म अनसचित जाति एव अनसचित जनजाति राजय की कल जनसखया का करमश: १७ . २९ परतिशत और १२ . ४४ परतिशत ह। Prediction : राजय म अनसचित जाति एव अनसचित जनजाति राजय क परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत परतिशत
+ Source :india is going to have Truth : भारत क पास होगा Prediction : भारत क पास होगा
+ Source :see also Truth : इनह भी दख Prediction : इनह भी दख
+ Source :there and back and there again how often in the last few years has he made this short aimless senseless pilgrimage Truth : उधर और पीछ और फिर दबारा उधर … पिछल वरषो म कितनी बार उसन इसक इरद - गिरद यह निरददशय , अरथहीन यातरा की ह ? Prediction : उधर और पीछ और इसक दबारा वरषो म उसन इरद निरददशय अरथहीन यातरा अरथहीन यातरा यातरा अरथहीन यातरा यातरा यातरा यातरा यातरा यातरा यातरा यातरा
+ Source :in this case there should be a substantial fine Truth : उसक मामल म भारी जरमाना किया जाना चाहिए . ” Prediction : उसक मामल म भारी जरमाना ,
+ Source :ladies are very particular about their appearance but all they need wash regularly are the face arms and hands Truth : महिलाए भल ही अपन परसततिकरण क मामल म बडी चौकस रहती हो , लकिन व अपन चहर , हाथ और बाहो को ही नियमित रप स धोती पोछती ह . Prediction : महिलाए भल यजञ को परसततिकरण क बडी चौकस को चहर भी बाहो नियमित धोती धोती धोती धोती धोती धोती धोती धोती धोती धोती धोती धोती
+ Source :i a combination of judicial and executive functions were vested in the same officer Truth : नयायिक तथा कारयपालक कारयो का सयोजन अरथात नयायाधीश और अभियोजक क कारय एक ही अधिकारी करता था ; Prediction : नयायिक तथा कारयपालक कारयो का सयोजन अरथात अभियोजक क अधिकारी ; ; गया और और और और और परति ; और परति और और परति
+ Source :richter magnitude scale Truth : रिकटर पमान Prediction : रिकटर पमान
+ Source :sheep thrive on natural grasses herbs and farm wastes Truth : भड पराकतिक घास , जडी-बटियो तथा फारमो क अवशिषट पदारथो पर फलती फलती ह . Prediction : भड पराकतिक घास , जडी-बटियो तथा अवशिषट फलती ह
+ Source :sync midi with audio Truth : midi का ऑडियो स ताल-मल Prediction : midi का रप म ताल-मल
+ Source :derek walcott Truth : डरक वालकाटट Prediction : डरक डरक
+ Source :he also invited a couple of philosophers Truth : तो उसन दो दारशनिको को भी बलाया था . Prediction : तो उसन दो दारशनिको को बलाया था .
+ Source :i m an old superstitious arab and i believe in our proverbs Truth : म एक बढा , अधविशवासी अरब ह और अपनी परानी कहावतो म यकीन रखता ह । Prediction : म एक अधविशवासी ह और उसक कहावतो म कहा ह ।
+ Source :stop the drive associated with the open folder Truth : खल फोलडर क साथ जड डराइव रोक (s) Prediction : खल फोलडर क साथ जड कोशिश करता .
+ Source :islam has two main festivals id ul fithar and Truth : इसलाम क दो महतवपरण तयौहार ईद उल फितर और ईद-उल-अजहा ह। Prediction : इसलाम क दो महतवपरण तयौहार का ईद-उल-अजहा ह।
+ Source :right bracket Truth : दाया कोषठ Prediction : दाया कोषठ
+ Source :proxy server connection failed Truth : परॉकसी सरवर कनकशन विफल . Prediction : परॉकसी सरवर कनकशन विफल .
+ Source :vikram samvat Truth : विकरम सवत Prediction : विकरम सवत
+ Source :the reason for this is that this religion is not based on the single god which is the basic concept of islam religion Truth : इसका कारण था कि वह धरम ईशवर की एकता को नही मानता था जो कि इसलाम क मल सिदधातो क विरदध था। Prediction : इसका कारण था कि धरम क ईशवर की सिदधातो क सिदधातो सिदधातो विरदध था।
+ Source :have you or your partner Truth : कया आप और आप का जीवनसाथी : Prediction : कया आप को आप आपको जीवनसाथी का
+ Source :in some purans it has been described till the end of universe Truth : कछ पराणो म सषटि क आरमभ स अनत तक का विवरण किया गया ह। Prediction : कछ पराणो म सषटि क आरमभ
+ Source :don t show warnings after every statement Truth : हर विवरण क बाद चतावनी मत दिखाए Prediction : हर विवरण क बाद चतावनी मत
+ Source :lrb a rrb work based training for a professional or specialist qualification Truth : ( ए ) किसी वयवसायिक या विशषञ योगयता क लिए कारय क दवारा परशिकषण ः या . Prediction : ( ए ) दवारा वयवसायिक या फिर या ः या ः या लिय या लिय या लिय या लिए दवारा दवारा दवारा लिए परशिकषण नही
+ Source :thank you very much thank you Truth : बहत बहत धनयवाद . धनयवाद . Prediction : बहत बहत धनयवाद . धनयवाद .
+ Source :the group was to remain there at the oasis until the conflict between the tribes was over Truth : “ हम लोग यहा तब तक ठहरग जब तक कबीलो की आपसी लडाई खतम नही हो जाती । Prediction : “ लोग लोग विकास तक ठहरग वह लगा , बिलकल तक ठहरग कयो अपनी लोग हो ठहरग वह तक की ठहरग एक तक लोग विकास
+ Source :tour de france Truth : टअर दि फरास Prediction : टअर दि फरास
+ Source :this old bicycle tube and this old plastic unclear Truth : य पराना साइकिल का टयब , और य परान पलासटिक का पाइप Prediction : य पराना साइकिल का टयब , अधिक पलासटिक क पाइप
+ Source :timeout connecting to server Truth : सरवर स जडन म तरटि . Prediction : सरवर स जडन
+ Source :and of course that has enormous implications Truth : निसदह इसक काफी बड परिणाम हो सकत ह . Prediction : निसदह इसक काफी बड ह
+ Source :here s our lady of guadalupe and our lady of watsonville just down the street Truth : यहा ह हमारी लडी ऑफ गवाडालप और लडी ऑफ वाटसनविल , बस सडक क नीच , Prediction : यहा ह , लडी ऑफ गवाडालप और वाटसनविल . , ,
+ Source :uddhav thackeray bal thackeray s son on the shiv sena s and his future Truth : बाल आकर क पतर उदधव आकर स शिवसना और उनक अपन भविषय Prediction : बाल आकर क पतर उदधव आकर और यह उदधव ह।
+ Source :resignation as chairman of congress Truth : कागरस क अधयकषपद स इसतीफा Prediction : कागरस क अधयकषपद
+ Source :the law doesn t affect those solvent misusers over the age of s could the law do more Truth : कया कानन कछ और कर सकता ह ? Prediction : कया कानन कछ नही ह ?
+ Source :vedic religion Truth : वदिक धरम Prediction : वदिक ,
+ Source :been a lone parent for those weeks Truth : उस 26 हफतो क लिए अकल पालक ह ? Prediction : उस 26 हफतो क लिए पालक सकता ,
+ Source :failed to allocate image buffer of u byte Truth : %u बाइट की छवि बफर आबटित करन म विफल Prediction : %u बाइट की छवि बफर आबटित करन
+ Source :jodha bai after marriage became muslim and mary uj jamani added message Truth : जोधाबाई विवाहोपरात मसलिम बनी और मरियम-उज-जमानी कहलायी। Prediction : जोधाबाई विवाहोपरात मसलिम मरियम-उज-जमानी कहलायी।
+ Source :and describe the world as it unfolds Truth : दनिया का वरणन कर रह ह . Prediction : दनिया का वरणन कर रह ह
+ Source :left wing politics Truth : बाए की राजनीति Prediction : बाए का राजनीति
+ Source :brazilian portuguese Truth : बराजीली परतगाली भाषा Prediction : बराजीली की
+ Source :for text input select a language to see available input methods Truth : पाठ इनपट हत , उपलबध इनपट पदधतिया दखन क लिए किसी भाषा को चन . Prediction : पाठ इनपट हत उपयोग उपलबध करन क लिए
+ Source :these may be designated as additional sessions judges or assistant sessions judges and they are judges of the same court Truth : इनह अपर सतर नयायाधीश अथवा सहायक सतर नयायाधीश कहा जाता ह ; य सब उसी नयायालय क नयायाधीश होत ह . Prediction : इनह अपर सतर नयायाधीश अथवा नयायाधीश ह और नयायाधीश नयायाधीश ह .
+ Source :use your camera Truth : अपना कमरा उपयोग कर Prediction : अपना कमरा उपयोग कर
+ Source :imports stopped and the demand increased Truth : आयात रक गया और माग बढ गयी . Prediction : आयात रक गया ह
+ Source :teji bacchan has worked on shakespeare drama through hariwansh roi bacchan Truth : तजी बचचन न हरिवश राय बचचन दवारा शकसपियर क अनदित कई नाटको म अभिनय का काम किया ह । Prediction : तजी बचचन न हरिवश राय बचचन का नाटको म काम
+ Source :the diverse systems of intelligence quotients lrb iq rrb devised by psychologists do not differentiate between the different mental factors involved therein Truth : विभिनन मनोवजञानिको दवारा तयार की गयी बदधि-अक जञात करन की पदधतियो दवारा मानसिक गणो क विभिनन कारको म कया अतर ह , इसकी पथक पहचान नही की Prediction : विभिनन मनोवजञानिको दवारा तयार की गयी और कया इसकी इसकी इसकी इसकी पथक क कारको इसकी इसकी इसकी इसकी अधिक इसकी इसकी इसकी इसकी इसकी
+ Source :do jasoos Truth : दो जासस (1975 फिलम) Prediction : दो जासस (1975 फिलम)
+ Source :and secondly they are the smallest reality Truth : और दसर , य वासतविकता का सबस छोटा भाग ह . Prediction : और दसर , य वासतविकता म सबस
+ Source :however this is not a requirement and will not affect how quickly we consider your application Truth : हालाकि यह एक जररत नही ह , और इस स इस बात पर कोई परभाव नही पडगा कि हम आप क आवदनपतर को कितनी शीघरता स दखत ह । Prediction : हालाकि यह एक जररत नही ह और नही कितनी नही कितनी हम कितनी हम कितनी हम कितनी हम हम कितनी हम हम नही कितनी हम
+ Source :dental implants can be an effective method to replace one tooth or several teeth Truth : एक या अनक झड दातो की जगह नकली दात लगाना लाभकारी हो सकता ह . Prediction : एक या अनक झड गया ह , लाभकारी हो . या
+ Source :as some sort of a signature Truth : एक हसताकषर क रप म . Prediction : एक हसताकषर क रप म
+ Source :the quran s script made many arab linguistic scholars go down on their knees Truth : करान की शली क कारण अरब क ‎भाषा जञानियो न अपन घटन टक दिए। Prediction : करान की शली क कारण अरब का ‎भाषा दिए।
+ Source :this bench will come under political pressure Truth : 1 . य पीठ कषतर क राज नतिक दबाव म आ जायगी Prediction : 1 . पीठ पीठ कषतर क नीच
+ Source :the house may be dissolved before the expiration of its full term under certain circumstances Truth : कछ परिसथितियो म लोक सभा की परण अवधि समापत होन स परव ही उसका विघटन किया जा सकता ह . Prediction : कछ परिसथितियो म लोक सभा की समापत होन स किया ह .
+ Source :for both speakers and attendees and i am no exception Truth : शरोता और वकता दोनो का ही , और म कोई अपवाद नही ह Prediction : शरोता और वकता दोनो का और यह ह
+ Source :in addition to this general objective the railway expansion programme has been oriented to meet specific developmental problems encountered from time to time Truth : इस सामानय उददशय क साथ साथ , रलव विसतार का कारयकरम भी , समय समय पर होन वाली विशष विकासातमक समसयाओ स निबटन क उददशय स रहा ह . Prediction : इस समय उददशय स साथ साथ विसतार स विकासातमक समसयाओ स निबटन क उददशय रहा रहा रहा रहा रहा रहा रहा रहा रहा रहा रहा
+ Source :the city became like a second paradise Truth : वह शहर एक दवितीय सवरग क समान हो गया। Prediction : वह ससकति , दवितीय सवरग क
+ Source :it yields tonnes of sugar per acre as against only tonnes from sugarcane Truth : यह गनन की 1 . 75 टन चीनी परति एकड की फसल की अपकषा 3 . 4 टन चीनी परति एकड दता ह . Prediction : यह गनन की टन चीनी टन चीनी 3 . टन चीनी परति एकड ( परति फसल एकड एकड ) ( परति 75 टन चीनी 3
+ Source :amjad khan Truth : अमजद खान Prediction : अमजद खान
+ Source :a new customer Truth : “ हमार नय गराहक । ” Prediction : “ हमार नय गराहक ।
+ Source :minimal prediction order optional default min max with lpc or without lpc Truth : नयनतम अनमान सतर वकलपिक -1 - डिफॉलट नयनतम - 0 अधिकतम - 32 (lpc क साथ) या 4 (lpc क बिना) Prediction : नयनतम अनमान सतर वकलपिक -1 - या (lpc क (lpc क बिना)
+ Source :gaurishankar hirachand ojha Truth : गौरीशकर हीराचद ओझा Prediction : गौरीशकर हीराचद ओझा
+ Source :but you can prevent the consequences by acting quickly Truth : लकिन आप जलदी काररवाई करक इसक परिणामो स बच सकत ह . Prediction : लकिन आप जलदी काररवाई करक परिणामो स हआ .
+ Source :delegation assistant Truth : डलिगशन सहायक Prediction : डलिगशन सहायक
+ Source :add task Truth : कारय जोड Prediction : कारय जोड
+ Source :implementation of a policy is more important than mere formulation Truth : नीति का निरमाण करन की अपकषा नीति को कारय रप दना कही अधिक महतव रखता ह . Prediction : नीति क निरमाण करन और अपकषा नीति को रखता ह .
+ Source :cups server Truth : cups सरवर (s): Prediction : cups सरवर
+ Source :we see it in supermarkets on book covers Truth : हमन यह पसतक कवर पर सपरमारकट म दखा ह। Prediction : हमन हम पसतक कवर सपरमारकट म दखा ह।
+ Source :eastern time indiana pike county Truth : परवी समय - इडियाना - पाइक काउटी Prediction : परवी समय - इडियाना काउटी की काउटी
+ Source :let the dealer offer you a price and then try to move it upwards s you must then decide whether you have a good deal Truth : आपको इसक बाद तय करना चाहिए कि कया आपको सबस उततम सौदा मिल रहा ह या नही । Prediction : आपको इसक बाद तय करना कया उततम नही या या या या रहा या कया तय नही या कया रहा ह या या कया ।
+ Source :cinema of andhra pradesh Truth : तलग सिनमा Prediction : तलग सिनमा
+ Source :report the crime to the police promptly Truth : पलिस को अपराध क बार म जलद स जलद सचना दीजिए | Prediction : पलिस को अपराध क बार म जलद मदद कर
+ Source :december nigeria bombings Truth : दिसमबर 2011 नाइजीरिया बम विसफोट Prediction : दिसमबर 2011 नाइजीरिया बम विसफोट
+ Source :email address optional Truth : बसमललाह-हमार ईशवर न। Prediction : बसमललाह-हमार ईशवर न।
+ Source :the suspect s alibi turned out to be a complete fabrication in other words he was lying when he said that he did not commit the crime Truth : सदिगध अपराधी न घटनासथल पर न होन का जो दावा किया वह परणतया मनगढत निकला; यानि कि वह झठ बोल रहा था कि उसन वह अपराध नही किया था। Prediction : सदिगध अपराधी न घटनासथल डिफॉलट न यानि वह घटनासथल को उसन न बोल था कि घटनासथल अपराधी न बात तो वह उसन उसन कि न
+ Source :the other thing that religions know is we re not just brains Truth : एक और चीज जो धरम जानत ह कि हमार अनदर सिरफ एक मन ही नही Prediction : एक और चीज जो धरम जानत ह जो एक
+ Source :wikipedia featured articles Truth : विकिपीडिया:निरवाचित लख Prediction : विकिपीडिया:निरवाचित लख
+ Source :s option given twice for the same window Truth : एक विडो हत दो “%s” विकलप दिए गए ह Prediction : एक विडो हत दो “%s” विकलप %s
+ Source :there is no room on it for two people Truth : यहा पर दो वयकतियो क लिए जगह नही … । ” Prediction : यहा पर वयकतियो क लिए नही … ”
+ Source :project rate hz Truth : परियोजना दर (hz): Prediction : परियोजना दर (hz):
+ Source :at these brisk sales there are woollen shawls and sheets bamboo and other handicraft goods Truth : इनम पहाडी ऊनी चादरो , बास की बसतओ तथा अनय कटीरोदयोगी बसतओ का करम-विकरम होता ह . Prediction : इनम पहाडी ऊनी चादरो , बास की बसतओ का बास को चादरो चादरो चादरो , बास की करम-विकरम होता ह .
+ Source :clean up by name Truth : नाम क अनसार साफ कर (u) Prediction : नाम क नाम
+ Source :please enter the account you want to attach this client to Truth : prosze wpisac nazwe konta , do ktorego ma zostac dołaczony ten klient . Prediction : prosze wpisac nazwe konta , ma zostac klient
+ Source :use ice packs on the cheek for swelling alternating on and off every thirty minutes Truth : तीस-तीस मिनट पर गाल पर बरफ लगाए ताकि कम सजन हो . Prediction : तीस-तीस मिनट पर गाल पर बरफ पर सजन जात ह
+ Source :they learn how letters join together to make words Truth : व सीखत ह कि शबद बनान क लिए अकषर कस एक दसर स जडत ह . Prediction : व सीखत ह शबद शबद बनान क जडत ह . ह . ह . ह . ह . ह .
+ Source :the poverty of the people found its visible manifestation in the series of famines which ravaged the country during the second half of the th century Truth : लोगो की यह दरिदरता सपषट रप स 19वी शताबदी क अतिम 50 वरषो म निरतर पडन वाल उन अकालो म दखी गयी जिसस दश तहस-नहस हो गया था . Prediction : लोगो की यह दरिदरता सपषट वह ही 19वी क दश गयी दश तहस-नहस तहस-नहस हो तहस-नहस गया तहस-नहस गया तहस-नहस गया तहस-नहस गया तहस-नहस गया
+ Source :many who have never worn glasses may find they to need them for reading or watching television Truth : बहत स लोग जिनहोन कभी चशमा नही पहना ह , उनह पढन या टलीविजन दखन क लिए ऊसकी जररत रहती ह । Prediction : बहत स लोग जिनहोन नही चशमा ह टलीविजन दखन क जररत जररत नही ह रहती ह या रहती ह या रहती ह या रहती ह
+ Source :much had gone in the battering they had received during the past years Truth : इसम स बहत कछ तो उन धकको म खतम हो चका ह , जो उनह पिछल 200 वरषो म मिल . Prediction : इसम स जो कछ अगर पिछल धकको पिछल पिछल जो वरषो म म म म म पिछल पिछल म म म म म म म
+ Source :list of airports by icao code c Truth : विमानकषतरो की सची icao कोड अनसार: c Prediction : विमानकषतरो की सची icao कोड
+ Source :he has scored the highest number of runs in test cricket Truth : व टसट करिकट म सबस जयादा रन बनान वाल बललबाज ह। Prediction : व टसट करिकट म सबस रन बललबाज ह।
+ Source :however this is not a requirement and will not affect how quickly we consider your application Truth : हालाकि यह एक जररत नही ह , और इस स इस बात पर कोई परभाव नही पडगा कि हम आप क आवदनपतर को कितनी शीघरता स दखत ह । Prediction : हालाकि यह एक जररत नही ह और नही कितनी नही कितनी हम कितनी हम कितनी हम कितनी हम हम कितनी हम हम नही कितनी हम
+ Source :right justified Truth : दाहिना समायोजित Prediction : दाहिना समायोजित
+ Source :giordano bruno Truth : जरदानो बरनो Prediction : जरदानो बरनो
+ Source :microsoft office Truth : माइकरोसॉफट ऑफिस २००७ Prediction : माइकरोसॉफट ऑफिस २००७
+ Source :bloody wasted years Truth : कितन बरसो की बरबादी ! Prediction : कितन बरसो की बरबादी !
+ Source :therefore at the insistence of brahmaji vedvyas approached ganeshji Truth : इसलिए बरहमा जी क कहन पर वयास गणश जी क पास पहच। Prediction : इसलिए बरहमा जी क कहन की जी पहच।
+ Source :and how they must meet the needs of all children Truth : और व किस परकार स सभी बचचो की आवशयकताए अवशय ही परी कर पाय | Prediction : और हम किस परकार स बचचो क अवशय ह ह .
+ Source :people get new clothes stitched Truth : लोग नए-नए वसतर सिलवात ह। Prediction : लोग नए-नए वसतर सिलवात ह।
+ Source :change nickname Truth : змінити псевдонім Prediction : змінити псевдонім
+ Source :aww it looks like there are currently no experiments available Truth : ओह , ऐसा लगता ह कि वरतमान म कोई परयोग उपलबध नही ह . Prediction : ओह , ऐसा कोई नही ह ?
+ Source :appreciate the vital role of intelligence invest in it and require the military to use it effectively Truth : उन कषतरो पर नियतरण कर और उनह अलग थलग कर जहा कि आतकवादी रहत ह और यदध करत ह। Prediction : उन कषतरो पर नियतरण कर और उनह काम यदध करत ह।
+ Source :select test to cycle through the detected video modes for your system Truth : कया आपका सकरीन परतयक पदधति म कारय कर रहा ह ? Prediction : कया आपका सकरीन परतयक पदधति म
+ Source :show recurring events in italic in bottom left calendar Truth : निचल बाए पचाग म इटालिक म पनरावतति घटनाओ दिखाए (e) Prediction : निचल बाए पचाग म पनरावतति घटनाओ दिखाए (e)
+ Source :no image loaded Truth : कोई छवि लोडड नही . Prediction : कोई छवि लोडड नही .
+ Source :v o chidambaram pillai Truth : वी . ओ . चिदमबरम पिलल Prediction : वी . ओ . चिदमबरम पिलल
+ Source :error d was expected but d given Truth : तरटि %d वाछित था परनत %d दिया गया Prediction : तरटि %d वाछित था परनत
+ Source :any decorative Truth : <कोई साज-सजावट> Prediction : <कोई साज-सजावट>
+ Source :copyright lionel dricot bertrand rousseau Truth : कॉपीराइट © 2008-2013 lionel dricot , bertrand rousseau Prediction : कॉपीराइट © 2008-2013 lionel dricot , bertrand rousseau
+ Source :the strain physical and emotional of the german tour affected his health and he longed to return to india to the quite of santiniketan Truth : अपनी जरमनी यातरा क शारीरिक और मानसिक दबाव क कारण रवीनदरनाथ की सहत पर बरा असर पडा और व शातिनिकतन वापस लौटना चाहत थ . Prediction : अपनी जरमनी यातरा क शारीरिक और व असर पडा और लौटना चाहत चाहत थ .
+ Source :from being proud in the way they re proud there Truth : उन बातो पर गरव करन स रोक सकग जिन पर वो अभी करता ह , Prediction : उन बातो पर गरव करन , रोक जात ह .
+ Source :religion in africa Truth : अफरीका म धरम Prediction : अफरीका म धरम
+ Source :all those who stand today under this flag are indians not hindus not muslims but indians Truth : जो भी इस झड क नीच खडा ह वह न हिद ह , न मसलमान , बलकि वह हिदसतानी ह . Prediction : जो भी होगा , हिद ह खडा हिद दवारा बलकि हिदसतानी ह और भी चककर
+ Source :that s london Truth : यह लनदन ह , Prediction : यह लनदन ह
+ Source :i ll make it or i ll not make it Truth : बनाऊगा या नही बनाऊगा , तमहारी बला स । Prediction : बनाऊगा या नही बनाऊगा , तमहारी तो
+ Source :globular cluster Truth : गोल तारागचछ Prediction : गोल तारागचछ
+ Source :amar prem Truth : अमर परम (1971 फिलम) Prediction : अमर परतीक
+ Source :paul hanley tennis Truth : पॉल हनली Prediction : पॉल हनली
+ Source :yes but your baby should still receive a full course of vaccine Truth : हा-परत तब भी बचच को वकसीन का परा कोरस दिया जाना चाहिय |भाष; Prediction : हा-परत तब भी बचच को इसक आप दिया चाहिय .
+ Source :i have n t a single explorer on my planet Truth : भगोलशासतरी नगरो , नदियो , परवतो समदरो , महासागरो और मरभमियो का हिसाब थोड ही रखता ह । Prediction : भगोलशासतरी नगरो , नदियो क परवतो की महासागरो हिसाब को रखता ह , महासागरो को , नदियो म ही नदियो म महासागरो और सब और
+ Source :birla institute of technology mesra Truth : बिरला परौदयोगिकी ससथान Prediction : बिरला परौदयोगिकी ससथान
+ Source :other phone Truth : अनय फोन Prediction : अनय फोन
+ Source :no photos videos found Truth : कोई फोटो/वीडियो नही मिला Prediction : कोई फोटो/वीडियो नही मिला
+ Source :that we do here in the u s Truth : जो हम यहा अमरीका म करती ह Prediction : जो हम यहा अमरीका म करती ह
+ Source :hindi blogosphere Truth : हिनदी चिटठाकारी Prediction : हिनदी चिटठाकारी
+ Source :haplogroup l mtdna Truth : मातवश समह ऍल१ Prediction : मातवश का जोसफ
+ Source :the social fund Truth : सामाजिक निधी Prediction : सामाजिक निधी
+ Source :the city became like a second paradise Truth : वह शहर एक दवितीय सवरग क समान हो गया। Prediction : वह ससकति , दवितीय सवरग क
+ Source :plasmodium vivax Truth : पलासमोडियम विवकस Prediction : पलासमोडियम pdo
+ Source :proto indo europeans Truth : आदिम-हिनद-यरोपीय लोग Prediction : आदिम-हिनद-यरोपीय लोग
+ Source :the greatest way to live with honour in this world is to be what we pretend to be Truth : इस दनिया म सममान क साथ जीन क लिए सबस बडा तरीका ह कि हम व बन जो हम होन का दिखावा करत ह। Prediction : इस दनिया म सममान क हम हम हम हम हम दिखावा करत दिखावा करत
+ Source :practise on quiet roads near home Truth : घर क नजदीक शात सडको पर परशिकषण लिजिए . Prediction : घर क नजदीक शात सडको पर
+ Source :july and august karachi target killings Truth : जलाई और अगसत २०११ कराची लकषयित हतयाए Prediction : जलाई और अगसत २०११ कराची लकषयित हतयाए
+ Source :simplified chinese characters Truth : सरलीकत चीनी वरण Prediction : सरलीकत चीनी वरण
+ Source :browse shares Truth : parcourir les partages Prediction : parcourir les partages mappar
+ Source :hence why remi is so different from sam Truth : इसी कारण स रमी सॉम स इतना अलग ह . Prediction : इसी कारण स रमी सॉम स इतना ह .
+ Source :there are nurses health visitors and midwives working in your community Truth : आपक यहा परिचारिका , आरोगय परकषक , और मिडवाइफ समाज म काम करत ह | Prediction : आपक यहा परिचारिका , आरोगय परकषक समाज म काम करत ह
+ Source :black and yellow metered taxi service is available in the whole city Truth : काली व पीली मीटर-यकत टसी सवा पर शहर म उपलबध ह। Prediction : काली व पीली मीटर-यकत दवारा सची क उपलबध ह।
+ Source :of solar radiation Truth : सौर विकिरणो कि Prediction : सौर विकिरणो गया
+ Source :to a very large extent he has to maintain the same role of impartiality and objectivity as that observed by the speaker Truth : काफी हद तक उस निषपकषता की वही भमिका निभानी होती ह जो अधयकष निभाता ह . Prediction : काफी हद तक का वही निभाता ह .
+ Source :erongo region Truth : एरोगो परदश Prediction : एरोगो परदश
+ Source :once again he was experiencing the language without words the universal language Truth : एक बार फिर वह शबदविहीन भाषा का अनभव कर रहा था । भाषा जो पर बरहमाणड म वयापत थी । Prediction : एक बार फिर वह शबदविहीन भाषा नही हो बरहमाणड वयापत बरहमाणड वयापत बरहमाणड वयापत वयापत बरहमाणड वयापत बरहमाणड वयापत वयापत बरहमाणड वयापत वयापत बरहमाणड वयापत
+ Source :korean war Truth : कोरियाई यदध Prediction : कोरियाई यदध
+ Source :and then she looked and did this Truth : फिर मरी तरफ दखा और ऐस इशारा किया . Prediction : फिर मरी तरफ दखा और इशारा किया .
+ Source :two sided Truth : दो तरफा Prediction : दो तरफा
+ Source :contacting ldap server host s port d base dn s Truth : ldap सरवर स सपरक कर रहा ह: मजबान '%s' , पोरट '%d' , आधार dn '%s' Prediction : ldap सरवर की सपरक ह: '%s' dn '%s' मान की सपरक ह: '%s' dn '%s' मान पर सपरक ह: '%s' dn '%s' मान पर सपरक
+ Source :autism is a very big continuum Truth : औटिसम एक लमबी शरखला ह Prediction : औटिसम एक लमबी शरखला ह
+ Source :in helsinborg sweden and in copenhagen bus funding is linked to performance measures and a customer survey of passengers Truth : हलसिनबरगड , सवीडन , और कोपनहगन म बस सवाओ को पस उन की कारागजारी और 25 , 000 यातरियो क सरवकषण क अनसार मिलत ह । Prediction : हलसिनबरगड , सवीडन , और कोपनहगन म सवाओ को सरवकषण क अनसार मिलत मिलत ह मिलत ह मिलत ह मिलत ह मिलत ह मिलत ह
+ Source :sheep milk is yellow in colour and the fat globules are large Truth : भड का दध पील रग का होता ह और वसा की गोलिकाए बडी होती ह . Prediction : भड का दध पील रग का नीच वसा की बडी ह .
+ Source :all the major religions give us calendars Truth : सभी बड धरमो न हम कलनडर दिय ह . Prediction : सभी बड धरमो न आधार कलनडर किया .
+ Source :after knowing that they have not sent by bali hanuman made a friendship between ram and sugriv Truth : यह जानन क बाद कि उनह बालि न नही भजा ह हनमान न राम और सगरीव म मितरता करवा दी। Prediction : यह जानन क बाद कि भजा ह और सगरीव म करवा दी। न सगरीव स दी। न सगरीव म सगरीव म दी। सबस सगरीव स
+ Source :pyaar ke side effects Truth : पयार क साइड इफकटस Prediction : पयार क साइड इफकटस
+ Source :in between these two sprayings spray the neemark nishaudi powder extract Truth : इन दो छिडकावो क बीच , नीमअरक निशौदी* बकनी अरक 5 का छिडकाव कर। Prediction : इन दो छिडकावो क बीच निशौदी* बकनी अरक 5 .
+ Source :black and yellow meter less taxi service are available in entire city Truth : काली व पीली मीटर-यकत टसी सवा पर शहर म उपलबध ह। Prediction : काली व पीली मीटर-यकत टसी आइकन एक ह।
+ Source :the diet prescription for a diabetic has the following com ponents Truth : मधमzह क रोगी को दिए जान वाल आहार म निमनलिखित घटक होन चाहिए : Prediction : मधमzह क रोगी को दिए जान चाहिए :
+ Source :is this is a factual claim Truth : यह एक दावा ह एक हकीकत का ; Prediction : यह एक दावा ह हकीकत का ;
+ Source :how to claim Truth : कस अरजी भष सकत ह । Prediction : कस अरजी भष सकत ह
+ Source :zone top Truth : जोन 0: ऊपर Prediction : जोन 0:
+ Source :but after his demise his bother sardar vallabh bhai patel did not accept this will and filed a case in the court Truth : मगर उनक निधन क पशचात उनक भाई सरदार वललभ भाई पटल न इस वसीयत को सवीकार नही किया और उसपर अदालत म मकदमा चलाया। Prediction : मगर उनक निधन क पशचात उनक वललभ को नही किया नही चलाया। नही चलाया।
+ Source :clears the dynamic row headers Truth : गतिशील पकति शीरषिका साफ कर Prediction : गतिशील पकति शीरषिका साफ कर
+ Source :he would take his place in the village square with the entire population round him Truth : वह सब गरामवासियो स घिरा गाव की चौपाल पर खडा होता ह . Prediction : वह सब गरामवासियो स घिरा गाव की खडा ' और कहत ह .
+ Source :if you want a comic book to do well make the librarians the hero it always works well Truth : अगर आप चाहत ह कि कोई कॉमिक परसिदध हो , तो लाइबररी वालो को हीरो बनाइय। सही रहगा। Prediction : अगर आप चाहत ह तो अपनी बनाइय। करन रहगा। रहगा।
+ Source :dutch keyboard Truth : डच कीबोरड Prediction : डच कीबोरड
+ Source :to start to tackle the problem of social exclusion effectively it was important to understand why it had become so pronounced in this country Truth : 9 . सोशयल ऐकसकलजन की समसया को परभावी तरीक स सलझाना आरभ करन क लिए यह जानना महतवपरण था कि इस दश म यह बढ कयो गया था | Prediction : 9 . सोशयल ऐकसकलजन म समसया तरीक स जानना महतवपरण था यह यह बढ यह गया | | | | | | | | |
+ Source :enable physics for Truth : भौतिकी क लिए सकषम कर: Prediction : भौतिकी क लिए कर:
+ Source :minimum cached height Truth : नयनतम कश ऊचाई Prediction : नयनतम कश
+ Source :object instance s name formatted for assistive technology access Truth : असिसटिव तकनॉलाजी पहच हत फॉरमटड ऑबजकट इसटनस का नाम Prediction : असिसटिव तकनॉलाजी पहच क फॉरमटड ऑबजकट नाम
+ Source :other bookmarks Truth : अनय बकमारक Prediction : अनय बकमारक
+ Source :many signs are just like the normal signs of growing up Truth : डरगस क सवन क बहत -स लकषण उमर म बडा होन क आम लकषणो जस ही होत ह . Prediction : डरगस क सवन क बहत -स लकषण ह जस -स -स करता ह .
+ Source :sarat is the second son of janakinath Truth : शरदबाब परभावती और जानकीनाथ क दसर बट थ। Prediction : शरदबाब परभावती नाम जानकीनाथ का थ।
+ Source :constitution assessment committee and supreme court has agreed it to be a union specific constitution but there are differences between intellectuals Truth : सविधान परारप समिति तथा सरवोचच नयायालय न इस को सघातमक सविधान माना ह परनत विदवानो म मतभद ह । Prediction : सविधान परारप समिति म सरवोचच कित माना ह परनत विदवानो म म म ।
+ Source :the connection is not opened Truth : कनकशन नही खला Prediction : कनकशन नही खला
+ Source :installed by enterprise policy Truth : एटरपराइज नीति दवारा इसटॉल किया गया . Prediction : एटरपराइज नीति दवारा इसटॉल किया गया .
+ Source :and this is the result of the farmers needs research Truth : और य परिणाम ह किसानो की जररत पर किय गय शोध का। Prediction : और य किसानो क काम म किय शोध का।
+ Source :oh i don t know Truth : ” मालम नही … Prediction : ” मालम नही …
+ Source :could not open the containing folder Truth : यकत फोलडर नही खोल सका Prediction : यकत फोलडर नही खोल सका
+ Source :category london borough of brent Truth : शरणी:बरट बरो Prediction : शरणी:बरट बरो
+ Source :tyneview park Truth : tyneview park Prediction : tyneview park
+ Source :the document is composed of several files one or more of these files cannot be accessed Truth : दसतावज कई फाईलो स बना ह . एक या एक स अधिक ऐस फाईलोतक पहचा नही ली जा सकती ह . Prediction : दसतावज क फाईलो स बना ह . पहचा नही . . .
+ Source :the earthen pot is an instrument which is popular both in folk as well as classical music Truth : मिटटी का घडा एक ऐसा वादय ह जो लोक सगीत और शासतरीय सगीत दोनो म लोकपरिय ह . Prediction : मिटटी का घडा ह . सगीत और लोकपरिय लोकपरिय ह सबस एक लोक शासतरीय लोकपरिय लोकपरिय लोकपरिय लोकपरिय स लोक लोकपरिय लोकपरिय सगीत और सबस
+ Source :ann arbor michigan Truth : ऐन आरबर Prediction : ऐन आरबर
+ Source :there was a time when stone age men and women Truth : एक समय था जब पतथर यग परष और महिलाए Prediction : एक समय था जब पतथर साल क महिलाए
+ Source :this reason for this goes to musical nature of krishna s poetry Truth : इसका कारण ह- कषण-काय की सगीतातमकता। Prediction : इसका कारण ह- कषण-काय की सगीतातमकता।
+ Source :there are fundamental major breakthroughs Truth : बनियादी , बडी सफलताए , Prediction : बनियादी ,
+ Source :once we realized that we decided it was time to do our own planning Truth : एक बार जब हम अहसास हो गया , तब हमन निशचय किया कि अब समय आ गया ह कि हम अपनी योजना खद तयार कर। Prediction : एक बार जब हम अहसास हो गया ह या हम अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी अपनी
+ Source :gulf of aden Truth : अदन की खाडी Prediction : अदन की
+ Source :markup column Truth : चिनहित कॉलम Prediction : चिनहित इक०
+ Source :always forward calls to the given host Truth : दिय गय होसट पर हमशा कॉल अगरसारित कर (a) Prediction : दिय गय होसट पर करत ह .
+ Source :ban song Truth : गाना परतिबधित कर Prediction : गाना परतिबधित कर
+ Source :this crazy canadian named powell crosley Truth : इस दीवान कनाडियन पोवल करोसल Prediction : इस दीवान कनाडियन पोवल करोसल
+ Source :the grasshoppers most appropriately named are happy at home among green grass and other low vegetation Truth : टिडड टिडड हरी घास और छोटी छोटी वनसऋ-ऊणशछष-पति क बीच परसनऋ-ऊणशछष-न रहत ह , वही उनक धर ह . Prediction : टिडड टिडड हरी घास और वनसऋ-ऊणशछष-पति क सभी को धर ह .
+ Source :the andhra pradesh high court Truth : आधर परदश उचच नयायालय Prediction : आधर परदश उचच
+ Source :unable to play sound asynchronously Truth : धवनि को अतलयकालिक रप स चलान म असमरथ। Prediction : धवनि को अतलयकालिक गई असमरथ।
+ Source :browse shares Truth : bladdra i utdelade mappar Prediction : parcourir les partages mappar
+ Source :and that s the grandmother of one of them Truth : और यह उनम स एक की नानी ह . Prediction : और यह उनम स एक नानी ह ,
+ Source :copy ipv address Truth : ipv6-adresse kopieren Prediction : ipv4-adresse ipv4
+ Source :switch to workspace Truth : कारयसथान 11 पर जाए Prediction : कारयसथान 11 पर जाए
+ Source :for more information contact your social security office Truth : इस क बार म अधिक जानकारी क लिए कपया आप क social security करमचालय स सपरक कर सकत ह । Prediction : इस क बार म अधिक करन क लिए security स सकत ह
+ Source :switch video to fullscreen Truth : परणसकरीन म वीडियो सविच कर (f) Prediction : परणसकरीन म वीडियो सविच कर
+ Source :news wing a hindi english portal centred on jharkhand Truth : नयज विग - झारखणड पर कनदरित हिनदी-अगरजी समाचार पोरटल Prediction : नयज विग - झारखणड पराचीन समाचार पोरटल
+ Source :the plan of the organisers was to establish a legal communist party but the the organisers were pushed out and the communists succeeded in organising a real communist party Truth : सगठन करताओ की योजना थी कि वध सामयवादी पारटी बनाई जाए पर सगठनकरता निकाल बाहर किए गए और सामयवादी असली सामयवादी पारटी बनान म सफल हए . Prediction : सगठन करताओ की योजना थी सामयवादी पारटी पर सामयवादी सामयवादी सामयवादी पारटी बनान सामयवादी सामयवादी पर सामयवादी सामयवादी पारटी बनान सामयवादी सामयवादी व सामयवादी सामयवादी
+ Source :hamachi is not installed Truth : hamachi ist nicht installiert Prediction : hamachi ist nicht installiert
+ Source :everybody s gone this tells you how the capitalist world rules Truth : कोई गनदगी नही थी , न ही भिखारी थ . सार सपर गायब हो गए . Prediction : कोई गनदगी नही . तो न भिखारी गए . तो गए गए .
+ Source :because otherwise it just looks wrong somehow Truth : कयकि अनयथा यह किसी तरह स गलत लगता ह | Prediction : कयकि अनयथा किसी ऐसा तरह लगता ह |
+ Source :monte carlo masters Truth : 2001 मोट कारलो मासटरस Prediction : 2001 मोट कारलो मासटरस
+ Source :cold economy Truth : अरथवयवसथाओ ठड Prediction : अरथवयवसथाओ मडन
+ Source :has shared a photo Truth : एक फोटो साझा किया Prediction : एक फोटो साझा किया
+ Source :moreover he could use pressure influence and strictness to accomplish his duties Truth : महतसिब अपन करतवयो की परति क लिए दबाव , और सखती बरत सकता Prediction : महतसिब अपन करतवयो की परति क लिए सखती बरत और
+ Source :marathi food Truth : मराठी खाना Prediction : मराठी खाना
+ Source :eye sight tests are free for some people find out if you qualify s see your optician for further details Truth : दषटि परीकषणनकई लोगो क लिए मफत ह यदि आप अधिकारी हो सकत ह तो आप पता लगाए Prediction : दषटि परीकषणनकई लोगो को लिए पता क पता पता आप आप यह मदद मदद । । । । । । । । । ।
+ Source :category history of iraq Truth : शरणी:इराक का इतिहास Prediction : शरणी:इराक का इतिहास
+ Source :brazilian portuguese Truth : बराजीली परतगाली भाषा Prediction : बराजीली की
+ Source :birla institute of technology mesra Truth : बिरला परौदयोगिकी ससथान Prediction : बिरला परौदयोगिकी ससथान
+ Source :of big areas of the world Truth : बलकि दनियाभर क बड इलाको क . Prediction : बलकि दनियाभर क बड इलाको क
+ Source :of the brain in real time Truth : मापती ह वासतविक समय म , Prediction : मापती ह वासतविक विशव
+ Source :percentage action is taken Truth : परतिशत करिया लिया गया ह Prediction : परतिशत करिया लिया
+ Source :message is junk Truth : सदश कचरा डाक ह Prediction : सदश कचरा डाक ह
+ Source :run xclient script Truth : xclient सकरिपट चलाए Prediction : xclient सकरिपट चलाए
+ Source :move forward from toolbars to tracks Truth : औजार-पटटी स टरकस पर आग जाए Prediction : औजार-पटटी स टरकस पर आग ह .
+ Source :and now at present the naturecure ayurvedic and modern treatments are taking place through the government in nepal Truth : हाल म नपाल क हसपताल सामनयतया आयरवद , पराकतिक चिकितसा तथा आधनिक चिकीतसा करक सरकारी सवा विदयमान ह । Prediction : हाल म नपाल क हसपताल सामनयतया आयरवद चिकितसा सवा विदयमान ह । । परतिशत हए विदयमान ।
+ Source :paste text Truth : टकसट चिपकाए Prediction : टकसट ipv4
+ Source :whether tearoff menu items should be added to menus Truth : कया टीयरऑफ मन मद मन म जोड जान चाहिय Prediction : कया टीयरऑफ मन मद मन जोड चाहिय
+ Source :it actually is a family of popular feed of webpages i e a lot of web feeds by the name of rss are in use Truth : यह दरअसल वब पननो की फीड क परचलित परारपो का एक समह (फमिली) ह अरथात आर एस एस क नाम स कई परकार क वब-फीड परचलन म ह। Prediction : यह दरअसल वब पननो की फीड क परचलित ह एस क एस . परचलित परचलित ह , एस . फीड क परचलित परचलित ह .
+ Source :this icon will be visible when the extension can act on the current page Truth : वरतमान पषठ पर एकसटशन क कारय कर सकन पर यह आइकन दशयमान होगा . Prediction : वरतमान पषठ पर एकसटशन जगह कारय को कारय चन .
+ Source :and or date is Truth : और / या तिथि ह Prediction : और / या तिथि ह
+ Source :in that time there were mixture of present pakistan and bangladesh Truth : उस समय पाकिसतान म वरतमान पाकिसतान और बागलादश दोनो सममिलित थ । Prediction : उस समय पाकिसतान और वरतमान पाकिसतान और बीच जाता ह।
+ Source :brian tracy Truth : - बरिअन टरसी Prediction : - बरिअन टरसी
+ Source :reverse alphabetical Truth : परतिलोम वरणमाला अनकरमणिका Prediction : परतिलोम वरणमाला
+ Source :arecibo observatory Truth : एरसिबो वधशाला Prediction : एरसिबो वधशाला
+ Source :zee studio Truth : जी सटडियो Prediction : जी सटडियो
+ Source :for repeated transfusions of rh positive blood in a negative person of either sex may eventually produce serious adverse reactions Truth : षह- रकत समह क सतरी-परषो को षह+ रकत बार-बार दिया गया तो उसक गभीर दषपरभाव हो सकत ह . Prediction : षह- रकत को सतरी-परषो को जिसका बार-बार ह तो गभीर गभीर गभीर गभीर गभीर गभीर गभीर बार-बार बार-बार सकत ह . गभीर गभीर गभीर गभीर
+ Source :hindus believe that the chants of om are vibrating in the whole universe Truth : हिनद यह मानत ह कि ओम की धवनि पर बरहमानद म गनज रही ह। Prediction : हिनद यह मानत ह जो ओम की ह ।
+ Source :this inverse relationship suggests another important conclusion Truth : इस विलम रिशत स एक और नतीजा निकलता ह . Prediction : इस विलम रिशत पर अधिक
+ Source :the kapota tiers are decorated by relieved kuda motifs particularly at the centre on each side Truth : कपोत सतर उभारदार कद मॉटिफ स , विशषकर हर दिशा क मधय म अलकत होत ह . Prediction : कपोत सतर उभारदार कद मॉटिफ स दवारा अलकत स दवारा मॉटिफ स मॉटिफ स मधय म अलकत ह - हर दिशा म दिशा क अलकत
+ Source :hexi corridor Truth : हशी गलियारा Prediction : हशी गलियारा
+ Source :unhandled tag s Truth : अनियतरित टग: '%s' Prediction : अनियतरित टग: '%s'
+ Source :moreover he could use pressure influence and strictness to accomplish his duties Truth : महतसिब अपन करतवयो की परति क लिए दबाव , और सखती बरत सकता Prediction : महतसिब अपन करतवयो की परति क लिए सखती बरत और
+ Source :this is a chart of what it looked like Truth : इसका चारट इस तरह दिखता ह। Prediction : इसका चारट इस तरह दिखता ह।
+ Source :ag okay there s his fifth hypothesis Truth : एजी: पाचवी हाइपोथसिस। Prediction : एजी: पाचवी हाइपोथसिस।
+ Source :in mice in principle and what i mean by in principle is Truth : चहो म , सिदधात क तौर प - और सिदधात स मरा मतलब ह , Prediction : चहो म भाग सिदधात प - मतलब मतलब ह
+ Source :than are put into malaria Truth : मलरिया क मकाबल। Prediction : मलरिया क मकाबल।
+ Source :kumar sanu Truth : कमार सान Prediction : कमार कमार
+ Source :chandi sona Truth : चादी सोना (1977 फिलम) Prediction : चादी की
+ Source :much of the delay lrb from march to october rrb was because the sena bjp combine was in power Truth : दरी मयतः इसलिए रही कि 4 मारच 1995 स अकतबर 1999 तक राजय म शिवसना-भाजपा सरकार रही . Prediction : दरी मयतः इसलिए रही कि कागरस स रही .
+ Source :in this positive connotation liberty would mean freedom of the individual to do what one likes Truth : इस सकारातमक अरथबोध म सवततरता का अरथ होगा किसी वयकति की अपनी इचछा क अनसार कारय करन की सवततरता . Prediction : इस सकारातमक अरथबोध म सवततरता ह , अनसार सवततरता की सवततरता ।
+ Source :error while creating link to b Truth : %b स कडी बनान म समसया Prediction : %b स कडी बनान म समसया
+ Source :government owned corporation Truth : सारवजनिक ससथान Prediction : सारवजनिक मासटरस
+ Source :list of airports by icao code a Truth : विमानकषतरो की सची icao कोड अनसार: a Prediction : विमानकषतरो की सची icao कोड
+ Source :input channels Truth : इनपट चनल Prediction : इनपट चनल
+ Source :on this pretext the british government arrested subhashbabu kept him imprisoned at mandaley jail in myanmar without suing him Truth : इसी बहान अगरज सरकार न सभाषबाब को गिरफतार किया और बिना कोई मकदमा चलाए उनह अनिशचित कालखड क लिए मयानमार क मडाल कारागह म बदी बनाया। Prediction : इसी बहान अगरज सरकार न सभाषबाब को गिरफतार करन क लिए मडाल कारागह बदी को बदी क बदी क बदी को बदी क बदी म
+ Source :lions gate bridge Truth : लायनस गट बरिज Prediction : लायनस गट बरिज
+ Source :child benefit Truth : child benefit Prediction : child benefit
+ Source :miao people Truth : मियाओ लोग Prediction : मियाओ लोग
+ Source :move down Truth : перемістити вниз Prediction : перемістити вниз
+ Source :this inverse relationship suggests another important conclusion Truth : इस विलम रिशत स एक और नतीजा निकलता ह . Prediction : इस विलम रिशत पर अधिक
+ Source :to put a down payment on her house Truth : कि य अपनी घर क लिय अगरणी जमाराशि का भगतान कर सक। Prediction : कि य अपनी घर क बार म कर सक।
+ Source :for the country to have as strong a future as it should have Truth : और एक मजबत भविषय बनान म जसा कि होना चाहिए। Prediction : और एक मजबत भविषय होना ही होना चाहिए .
+ Source :to improve schooling in india Truth : भारत म शिकषा सधारो क लिए आया था . Prediction : भारत म शिकषा सधारो क लिए
+ Source :trust me we will sink to them Truth : तो विशवास कीजिय , हम उनक सतर तक झक जायग . Prediction : तो विशवास कीजिय , हम मातरा ?
+ Source :the display compensation table is invalid Truth : परदरशन कषतिपरति सारणी अमानय ह Prediction : परदरशन कषतिपरति सारणी अमानय ह .
+ Source :it s understanding data Truth : यह परकषणो (डाटा) को समझन का विजञान ह। Prediction : यह परकषणो (डाटा) को समझन ह।
+ Source :the animal dies soon after infection generally within six hours Truth : सकरमण क तरनत बाद लगभग छ : घणट क भीतर ही जानवर की मौत हो जाती ह . Prediction : सकरमण क तरनत म छ जो दोनो रप म जाती ह
+ Source :i didn t know if i could do that Truth : मझ नही पता था कि कया ऐसी कलाकति को Prediction : मझ नही पता था कि कया कलाकति
+ Source :they dug a hole and lit their fire in it so that the light of the flames would not be seen Truth : उनहोन गडढा खोदकर आग जलाई ताकि उसकी रोशनी दखी न जा सक । Prediction : उनहोन गडढा खोदकर आग उसकी रोशनी नही था .
+ Source :if you want to claim benefit for your partner please also have their ni number ready Truth : अगर आप को आप क जीवनसाथी की अरजी भी benefit क लिए भरनी हो तो कपया उन का ni करमाक तयार रख । Prediction : अगर आप को आप जीवनसाथी की benefit क लिए ni करमाक करमाक तयार करमाक अरजी करमाक अरजी करमाक तयार रख करमाक तयार करमाक अरजी करमाक
+ Source :mission impossible film series Truth : मिशन: इमपॉसिबल (फिलम शखला) Prediction : मिशन: इमपॉसिबल (फिलम शखला)
+ Source :donald laird Truth : - डोनालड लयरड Prediction : - डोनालड लयरड
+ Source :kuwait olympic committee Truth : कवत ओलमपिक समिति Prediction : कवत ओलमपिक समिति
+ Source :enter your subquestions Truth : आपक subquestions दरज कर: Prediction : आपक subquestions दरज कर:
+ Source :and of course peace can be a harmless mindset Truth : अलबतता , शाति क बार म सोचत रहन म कया हरज ह ? Prediction : अलबतता , शाति क बार म ?
+ Source :joe cordare Truth : - जॉय कोरडयर Prediction : - डोनालड कोरडयर
+ Source :once it becomes a closed system with u s participation Truth : अमरिकी भागीदारी स जब यह एक बद वयवसथा हो जाती ह Prediction : अमरिकी भागीदारी स उपयोग कर उपयोग कर
+ Source :open tab Truth : टब खोल (b) Prediction : टब खोल (b)
+ Source :regular expression Truth : नियमित (रगलर) एकसपरशन . Prediction : नियमित (रगलर) एकसपरशन .
+ Source :the school will ask you to sign the agreement to show that you understand and accept it Truth : आप समझौत को समझत ह और इस सवीकार करत ह यह दरशान क लिए सकल आपस इस पर हसताकषर करन को कहगी |भाष; Prediction : आप समझौत को समझत ह और यह आपस आप को कहगी |भाष; कहगी |भाष;
+ Source :search for extraterrestrial intelligence Truth : सरच फॉर एकसटरा टरसटरियल इनटलीजनस Prediction : सरच फॉर एकसटरा टरसटरियल इनटलीजनस
+ Source :thus by exchanging positions once he scores one run Truth : इस परकार एक बार सथिति बदल लन स एक रन बन जाता ह। Prediction : इस परकार एक बार सथिति स लन स अधिक जाता ह .
+ Source :rights and standards throughout the nhs Truth : nhs क परमाण और अधिकार| Prediction : nhs क परमाण और अधिकार|
+ Source :commands rang in her mind now now Truth : उसक मसतिषक म आदशो की सखत आवाज गज गई : अब … अब ! Prediction : उसक मसतिषक म आदशो की सखत एक आदशो की आदशो की आदशो की आदशो की आदशो की आदशो की आदशो की आदशो की आदशो की
+ Source :run xclient script Truth : xclient सकरिपट चलाए Prediction : xclient सकरिपट चलाए
+ Source :embed the video output in the main interface Truth : मखय अतरफलक म वीडियो आउटपट शामिल कर . Prediction : मखय अतरफलक म वीडियो आउटपट
+ Source :updating problem report Truth : समसया रिपोरट को अदयतन कर रहा ह Prediction : समसया रिपोरट को अदयतन कर
+ Source :and assure them repeatedly that everything will be ok Truth : और उनह बार बार आशरवासन द कि सभी कछ ठीक हो जायगा . Prediction : और उनह बार आशरवासन आशरवासन द कि
+ Source :nexus one Truth : नकसस वन Prediction : नकसस वन
+ Source :they learn how letters join together to make words Truth : व सीखत ह कि शबद बनान क लिए अकषर कस एक दसर स जडत ह . Prediction : व सीखत ह शबद शबद बनान क जडत ह . ह . ह . ह . ह . ह .
+ Source :enable plugins Truth : पलगइनस सकषम कर Prediction : पलगइनस सकषम कर
+ Source :mobile bookmarks Truth : मोबाइल बकमारक Prediction : मोबाइल बकमारक
+ Source :robert woodrow wilson Truth : रोबरट वडरो विलसन Prediction : रोबरट वडरो विलसन
+ Source :shorten urls in posts Truth : पोसट म यआरएल को छोटा कर Prediction : पोसट म यआरएल को
+ Source :the evidence of rising unfamiliarity and disinterest in our neighbourhood is overwhelming Truth : पडसियो क परति हमारी बढती अनभिजञता और निरतसाह क कई सबत ह . Prediction : पडसियो क परति की बढती और सबत ह .
+ Source :i am glad he said that you agree with my fox Truth : “ म सतषट ह , ” उसन कहा , ' कि तम मरी लोमडी स सहमत हो । ” Prediction : “ म सतषट ह , ” कहा , सहमत ह । ” म ” ” ” म ” ” ” ” ” ” ” ”
+ Source :traditionally it comprised the male specific tandav the female lasayam and the mixed steps of jugal Truth : पारपरिक रप स यह परषो क ताडव , महिलओ क लसयम और यगल की मिशरित पदगतियो स मिलकर बना ह . Prediction : पारपरिक रप स कछ परषो स रहन की पदगतियो स यह पर मदद कर ह। वाल पर उचित स ह ह . स स नही
+ Source :let me ask you a question Truth : आपस एक परशन पछता ह। Prediction : आपस एक परशन पछता ह।
+ Source :once india had such a mind which was lit by its own flame fed with its own oil Truth : एक समय भारत क पास भी मसतिषक था जो अपन परकाश स दीपत था और भारतीय सनह हयतलह स जलता था . Prediction : एक समय भारत क पास भी मसतिषक था जो जलता था भारतीय जलता था था था था था भारतीय भारतीय भी था था जो जलता
+ Source :which is a way of bringing water directly to the plant stock Truth : जो कि पानी को सीध पौध की जड म पहचान का एक तरीका ह। Prediction : जो कि पानी क सीध पौध की पहचान को तरीका ह .
+ Source :which country has the growth momentum Truth : किस दश क पास विकास का बहतर आवग ह ? Prediction : किस दश क पास बना लोग बहतर ह।
+ Source :but even more concerning is the education that the balance of people are getting Truth : लकिन उसस अधिक चिताजनक ह शिकषा का सतलन जो लोग परापत कर रह ह। Prediction : लकिन उसस अधिक चिताजनक ह सतलन जो लोग ह ,
+ Source :his parents were rich and affectionate Truth : उसक माता-पिता धनी ही नही सनही भी थ . Prediction : उसक माता-पिता धनी ही नही सनही
+ Source :show tips at startup Truth : सकतो को शरवात म दिखाए (&s) Prediction : सकतो को शरवात (&s)
+ Source :however as far as i know all the species have evolved to actually die Truth : लकिन , जहा तक म जानता ह , सभी नसल असली म मरन क लिए ही विकसित हई ह , Prediction : लकिन , जहा था - जानता ह ह असली विकसित विकसित था .
+ Source :we have reached a point where we must protect the environment in order to protect ourselves Truth : हम अब उस मकाम पर पहच गय ह जहा हम सवय को बचान क लिए परयावरण को परदषित होन स बचाना होगा . Prediction : हम अब उस मकाम पर पहच हम सवय को परयावरण को होगा और होगा परयावरण क परयावरण को परयावरण को बचाना स परयावरण क हम
+ Source :duplicate allow duplicates of records Truth : डपलीकट - रिकॉरड को डपलिकट करन की अनमति दता ह| Prediction : डपलीकट - रिकॉरड को डपलिकट अधिकतम कर
+ Source :nicobar megapode Truth : निकोबार मगापोड Prediction : निकोबार इक०
+ Source :where the bill to be introduced Truth : 3 . बिल कहा परसतावित हो Prediction : 3 . बिल परिवरतन परसतावित .
+ Source :use a for address and n for nickname Truth : アトレスとして %a を使い、ニックネームとして %n を使う Prediction : アトレスとして %a を使い、ニックネームとして %n を使う
+ Source :use selective and relatively safe chemicals Truth : चनिदा और अपकषाकत सरकषित रसायनो का इसतमाल कर . Prediction : चनिदा और अपकषाकत सरकषित रसायनो का
+ Source :there are a bit harder issues Truth : य बहत गहन मसल ह । Prediction : य बहत गहन मसल ह ।
+ Source :ppd error Truth : ppd तरटि Prediction : ppd तरटि
+ Source :the fecund mother rabbit gave birth to a very large number of little baby rabbits Truth : बहपरज मादा खरगोश न बडी सखया म छोट खरगोश बचचो को जनम दिया। Prediction : बहपरज मादा खरगोश म बडी सखया खरगोश जनम दिया।
+ Source :the first one was miniaturization Truth : पहला था लघकरण , चीज को छोटा बनाना। Prediction : पहला था लघकरण , चीज बनाना।
+ Source :it is easy to become psychologically dependent and people who try and stop may suffer very unpleasant withdrawal symptoms s these drugs are commonly found in many medicine cabinets Truth : परायः इन डरगस को साझी सइयो और सिरिजो क वदारा गरहण किया जाता हइसलिए सकरमण हो जान का खतरा भी साथ लगा रहता ह। Prediction : परायः इन डरगस और और भी वदारा गरहण ईशवर साथ सिरिजो क साथ लगा ? खतरा भी साथ भी इस साथ यह साथ खतरा लगा
+ Source :but it is invisible Truth : लकिन वह अदशय ह। Prediction : लकिन वह अदशय ह।
+ Source :we cannot go very far with propaganda and agitation Truth : कवल परोपगडा और आदोलन स हम बहत दर नही जा सकत . Prediction : कवल परोपगडा और आदोलन म बहत करत ह सकत ह।
+ Source :jawaharlal nehru in and joined the home rule league Truth : 1917 म जवाहर लाल नहर होम रल लीग म शामिल हो गए। Prediction : 1917 म जवाहर लाल एक होम गया . जवाहर . जवाहर . जवाहर लाल जवाहर लीग
+ Source :the discussion ended Truth : चरचा समापत हो गई थी । Prediction : चरचा बरिअन पर गई ।
+ Source :men in black Truth : मन इन बलक 3 Prediction : मन इन बलक 3
+ Source :find an image by typing text that appears in its name or tags Truth : किसी छवि को ढढ पाठ टाइप करक जो इसक नाम या टह पर परकट होता ह Prediction : किसी क नाम ढढ पाठ पर अधिक टह पर .
+ Source :sabeer bhatia Truth : सबीर भाटिया Prediction : सबीर भाटिया
+ Source :ranjit singh Truth : महाराजा रणजीति सिह Prediction : महाराजा सिह सिह (2006 फिलम)
+ Source :bloody wasted years Truth : कितन बरसो की बरबादी ! Prediction : कितन बरसो की बरबादी !
+ Source :new mode Truth : नया मोड Prediction : नया मोड
+ Source :nabro volcano Truth : नाबरो जवालामखी Prediction : नाबरो जवालामखी
+ Source :by giving a green signal for additional manpower and equipment the government has in effect injected more funds into the agency Truth : अतिरिकत करमचारियो और उपकरणो की मजरी दकर सरकार न इस एजसी को और पसा महया करा दिया ह . Prediction : अतिरिकत करमचारियो और उपकरणो को मजरी दकर करन क पसा हो गया .
+ Source :stop that noise Truth : ” इस तरह न चिललाओ … Prediction : ” इस तरह न चिललाओ …
+ Source :in future a lot of issues are going to revolve around economics he says Truth : व कहत ह , ' ' भविषय म कई मदद अरथवयवसथा स जड होग . ' ' Prediction : व कहत ह जो ' ' मनषय का ' ' ' '
+ Source :rajendra kumar Truth : राजदर कमार Prediction : राजदर कमार
+ Source :vlc version s s Truth : vlc ससकरण %s(%s) Prediction : vlc ससकरण %s(%s)
+ Source :it is called king of pilgrimage prayaga Truth : इस तीरथराज परयाग कहा जाता ह। Prediction : इस तीरथराज परयाग कहा जाता ह।
+ Source :failed to add bind now loader Truth : bind-now-loader जोडन म विफल . Prediction : bind-now-loader जोडन म विफल .
+ Source :error opening project Truth : परियोजना खोलन म तरटि Prediction : परियोजना खोलन म तरटि
+ Source :sopwith tabloid Truth : सोपविद टबलोइड Prediction : सोपविद जवालामखी
+ Source :lvm vg s lv s Truth : एलवीएम वीजी %s , एलवी %s Prediction : एलवीएम वीजी %s
+ Source :haplogroup ij Truth : पितवश समह आईज Prediction : पितवश . आईज
+ Source :we might have expected only a few species to be able to live there Truth : हम वहा कछ ही परजातियो क जीवन की अपकषा कर सकत ह . Prediction : हम वहा कछ परजातियो क लिए
+ Source :by mistake his killed a businessman named ernest day Truth : उसन गलती स अरनसट ड नामक एक वयापारी को मार डाला। Prediction : उसन गलती स उसस ड सन म कई का बस
+ Source :to me it was all like a living story Truth : ? मर लिए यह सब एक जीवत कहानी की तरह था . ? Prediction : ? मर लिए वो एक एक जीवत था .
+ Source :move s back to s Truth : '%s' को '%s' म वापस खिसकाता ह Prediction : '%s' को '%s' नही वापस खिसकाता ह इस '%s' नही खिसकाता ह
+ Source :papanasam sivan Truth : पापनाशम शिवन Prediction : पापनाशम लाइसस
+ Source :zarine khan Truth : जरीन खान Prediction : जरीन खान
+ Source :all his books were translated to english and urdu and other languages like chinese russian etc and his stories were published in other foreign languages Truth : उनकी सभी पसतको क अगरजी व उरद रपातर तो हए ही ह चीनी रसी आदि अनक विदशी भाषाओ म उनकी कहानिया लोकपरिय हई ह। Prediction : उनकी सभी पसतको क अगरजी व दोनो क विदशी भाषाओ कहानिया लोकपरिय हई ह। कहानिया हई ह।
+ Source :unknown time Truth : अजञात समय Prediction : अजञात समय
+ Source :year ago Truth : 1 साल पहल Prediction : 1 वरष
+ Source :font effect Truth : फॉनट परभाव Prediction : फॉनट परभाव
+ Source :don t worry about life you re not going to survive it anyway Truth : जीवन क बार म जयादा वयथित न हो , इसस आप बच कर निकलन वाल तो ह नही। Prediction : जीवन क बार म जयादा वयथित वाल बच निकलन तो नही। नही। तो नही। नही। तो तो वयथित वाल निकलन तो नही। नही। तो नही।
+ Source :the ending portion of these vedas is called upanishad Truth : इनही वदो का अतिम भाग उपनिषद कहलाता ह। Prediction : इनही वदो का अतिम कहलाता ह।
+ Source :shrink fatten Truth : सिकोड/मोटा कर Prediction : सिकोड/मोटा कर
+ Source :naren had three or four meetings with the consul but found that he was making no progress Truth : नरदर न कौसिल स तीन या चार मलाकात की कित उनहोन महसस किया कि व किसी भी परकार स बात आग नही बढा पा रह ह . Prediction : नरदर न कौसिल स तीन बात किया कि महसस किसी आग बढा बढा उनका उनका नही पता बात उनहोन नही बढा पा रह रह नही
+ Source :slowly this disaffection extincted Truth : धीर धीर यह भावना लपत हो गयी। Prediction : धीर धीर यह भावना
+ Source :there could be nothing more wrong than Truth : उसस जयादा गलत कछ हो ही नही सकता ह । Prediction : उसस जयादा गलत कछ भी ह
+ Source :it should be composed of people who know and understand the business s food products and their uses Truth : यह उन लोगो की बनी होनी चाहिए जो वयापार क खादय उतपादन और उन क उपयोगो क बार म जानत और समझत ह। Prediction : यह उन लोगो को बनी होनी खादय ह और उपयोगो म जानत और समझत और समझत ह।
+ Source :then we can save lives Truth : तो हम कई जीवन बचा सकत ह . Prediction : तो हम बात कर सकत ह .
+ Source :to just take a moment Truth : कि एक कषण क लिए Prediction : कि एक कषण
+ Source :remember forever Truth : सदा क लिए याद रख (f) Prediction : सदा क गति
+ Source :an explanation solely in terms of sociological differentials can be adequate only if more fundamental factors are absent Truth : कवल समाजशासतरीय भदको क आधार पर समाधान दना उसी सथिति म परयापत माना जा सकता ह जबकि अपकषाकत अधिक मलभत कारक उपसथित न हो . Prediction : कवल समाजशासतरीय भदको क दना तो समाधान उपसथित जबकि अपकषाकत मलभत को हो हो हो हो हो हो हो हो हो हो हो हो हो
+ Source :but the influence of persian has no element of religion about it Truth : लकिन फारसी क परभाव म धरम की कोई बात नही उठती . Prediction : लकिन फारसी क परभाव करना |
+ Source :turkic languages Truth : तरकी भाषा परिवार Prediction : तरकी भाषा
+ Source :went to this village Truth : एक गाव म पहच। Prediction : एक गाव म पहच।
+ Source :macedonian denar Truth : मसिडोनियाई दीनार Prediction : मसिडोनियाई दीनार
+ Source :it is the greatness of vedvyasa who compiled all the upanishads in one book and gave the human being an easy way to achieve spiritual knowledge Truth : वदवयास की महानता ही ह जो कि ११ उपनिषदो क जञान को एक पसतक म बाध सक और मानवता को एक आसान यकति स परमातम जञान का दरशन करा सक। Prediction : वदवयास की महानता ही ह ११ म तब मानवता को परमातम जञान दरशन दरशन दरशन करा दरशन करा सक। दरशन करा दरशन करा सक। दरशन
+ Source :we reconditioned them all fixed them Truth : हमन उन सब को फिर स सगठित किया , ठीक किया। Prediction : हमन उन सब को फिर सगठित किया ,
+ Source :and he was practicing his french Truth : और वह फरच अभयास कर रहा था Prediction : और वह फरच अभयास कर .
+ Source :forward contact Truth : सपरक अगरषित कर (f) Prediction : सपरक अगरषित कर (f)
+ Source :like earthworms in britain termites help to maintain the quality and stability of tropical soils Truth : ऊषण-कटिबधीय कषतर म दीमक भमि क सवरप और दढता को उसी परकार बनाए रखन म सहायता करती ह , जस कि बरिटन म कचआ करता ह . Prediction : ऊषण-कटिबधीय कषतर म दीमक भमि क दढता उसी म ओर बरिटन म कचआ म क कचआ का करता ह - बरिटन म बरिटन म कचआ
+ Source :mehdi hassan Truth : महदी हसन Prediction : महदी राषटरीय
